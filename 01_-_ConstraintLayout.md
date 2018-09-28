@@ -28,3 +28,5 @@
 - - 1.  “Begin/Start” 가이드라인 - 화면 시작으로부터 오프셋으로 지정합니다.
   - 2.  “Matching/End” 가이드라인 - 화면 끝으로부터 오프셋으로 지정합니다.
   - 3.  “Percent” 가이드라인 - 화면의의 일정 비율로 가이드라인의 위치를 지정합니다.
+  ## PPT
+  [ConstraintLayout.ppt](https://github.com/qwsd1109/Study/blob/master/01_-_ConstraintLayout.pptx)
